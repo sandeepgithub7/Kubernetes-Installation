@@ -1,4 +1,4 @@
-# DAY-9 | KUBERNETES PART-1 & PART-2
+# KUBERNETES 
 
 ## Introduction to Kubernetes
 
